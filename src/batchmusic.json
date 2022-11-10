@@ -29,6 +29,16 @@
                   "SongYear": {"S": "1992"}
                 }
             }
-        }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "One Ok Rock"},
+                "SongTitle": {"S": "Renegades"},
+                "AlbumTitle": {"S": "Rurouni Kenshin: The Final"},
+                "SongYear": {"S": "2021"}
+              }
+          }
+      }
       ]
 }
