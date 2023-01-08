@@ -1,4 +1,6 @@
 # dio-live-dynamodb
+*Este projeto é um dos desafios desenvolvido durante o bootcamp Ciência de Dados Geração Tech Unimed-BH da DIO (Digital Innovation One). Todo o material desenvolvido durante as aulas pode ser encontrado [aqui](https://github.com/henrique-sk/Ciencia_de_Dados-DIO-Geracao_Tech_Unimed_BH).*
+
 Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
 
 ### Serviço utilizado
